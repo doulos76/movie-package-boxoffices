@@ -10,8 +10,6 @@ import XCTest
 
 final class APIClientTests: XCTestCase {
   func test_fetch() async throws {
-    // http://kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOfficeList.json?key=82ca741a2844c5c180a208137bb92bd7&targetDt=20120101
-    
     struct Response: Decodable {
       let boxOfficeResult: DailyBoxOfficeResult
       
@@ -24,7 +22,7 @@ final class APIClientTests: XCTestCase {
       }
     }
     
-    let apiClient = APIClient(key: "03473df0bdd2bea306e2ea09dbe58fd8")
+    let apiClient = APIClient(key: "{USER_API_KEY}")
     let response: Response = try await apiClient.fetch(
       path: "boxoffice/searchDailyBoxOfficeList.json",
       httpMethod: .get,
@@ -33,8 +31,7 @@ final class APIClientTests: XCTestCase {
       ]
     )
     
-    XCTAssertEqual(response.boxOfficeResult.dailyBoxOfficeList.count, 10)
-    
+    XCTAssertEqual(response.boxOfficeResult.dailyBoxOfficeList.count, 10)    
   }
 }
 
