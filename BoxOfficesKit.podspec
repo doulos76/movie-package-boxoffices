@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "BoxOfficesKit"
-  spec.version      = "1.0.3"
+  spec.version      = "1.0.4"
   spec.summary      = "영화진흥위원회에서 제공하는 API를 활용해 영화 관련 정보를 가져옵니다."
 
   spec.description  = <<-DESC
