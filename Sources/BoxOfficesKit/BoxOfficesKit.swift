@@ -5,7 +5,7 @@ import Foundation
 
 
 /// 박스오피스 관련 퍼블릭 인테페이스를 제공하는 메인 클래스
-public class BoxOffices {
+public class BoxOfficesKit {
   private let apiClient: APIClient
   
   /// 영화진흥위원회에서 발급 받은 API 키
@@ -13,7 +13,7 @@ public class BoxOffices {
     apiClient.key
   }
   
-  /// ``BoxOffices/BoxOffices`` 객체를 생성합니다
+  /// ``BoxOfficesKit/BoxOfficesKit`` 객체를 생성합니다
   /// - Parameter key: 영화진흥회에서 발급 받은 API 키
   public init(key: String) {
     self.apiClient = APIClient(key: key)

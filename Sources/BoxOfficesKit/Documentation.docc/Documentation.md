@@ -1,4 +1,4 @@
-# ``BoxOffices``
+# ``BoxOfficesKit``
 
 영화진흥위원회에서 제공하는 API를 활용해 영화 관련 정보를 가져오는 스위프트 패키지
 

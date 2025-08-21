@@ -24,6 +24,6 @@ Pod::Spec.new do |spec|
     :tag => "#{spec.version}" 
   }
 
-  spec.source_files  = "Sources/BoxOffices/**/*"
+  spec.source_files  = "Sources/BoxOfficesKit/**/*"
 
 end

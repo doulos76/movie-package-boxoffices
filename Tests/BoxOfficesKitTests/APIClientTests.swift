@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import BoxOffices
+@testable import BoxOfficesKit
 
 final class APIClientTests: XCTestCase {
   func test_fetch() async throws {
