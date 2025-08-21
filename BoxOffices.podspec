@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
 
-  spec.name         = "BoxOffices"
+  spec.name         = "BoxOfficesKit"
   spec.version      = "1.0.3"
   spec.summary      = "영화진흥위원회에서 제공하는 API를 활용해 영화 관련 정보를 가져옵니다."
 
@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
                    DESC
 
   spec.homepage     = "https://github.com/doulos76/movie-package-boxoffices"
-  spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author             = { "Minhoi Goo" => "inojyes@gmail.com" }
 
   # spec.platform     = :ios
