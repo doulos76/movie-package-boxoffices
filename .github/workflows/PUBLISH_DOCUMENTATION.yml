@@ -39,7 +39,7 @@ jobs:
     - name: Setup Xcode version
       uses: maxim-lobanov/setup-xcode@v1 # xcode 버전 설정을 위함
       with:
-        xcode-version: '15.0'
+        xcode-version: '16.4'
     - name: DocC 문서 빌드
       run: |
         chmod +x ./GENERATE_DOCS.sh
