@@ -1,3 +1,6 @@
+[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/Alamofire.svg?style=flat-square)](https://img.shields.io/cocoapods/v/Alamofire.svg)
+[![Swift Package Manager](https://img.shields.io/badge/Swift_Package_Manager-compatible-orange?style=flat-square)](https://img.shields.io/badge/Swift_Package_Manager-compatible-orange?style=flat-square)
+
 # movie-package-boxoffices
 영화 진흥회에서 제공하는 API를 사용하여 영화 정보를 가져오는 스위프트 패키지
 
@@ -23,9 +26,9 @@ BoxOffices는 [영화진흥위원회](http://www.kobis.or.kr/kobisopenapi/homepg
 [영화진흥위원회](http://www.kobis.or.kr/kobisopenapi/homepg/main/main.do)에서 발급 받은 API 키를 가지고 `BoxOffices` 객체를 생성합니다.
 
 ```swift
-extension BoxOffices {
-  static var shared: BoxOffices {
-    BoxOffices(apiKey: "{발급받은_API키}")
+extension BoxOfficesKit {
+  static var shared: BoxOfficesKit {
+    BoxOfficesKit(apiKey: "{발급받은_API키}")
   }
 }
 ```
@@ -37,6 +40,24 @@ extension BoxOffices {
 일별 상위 10개 박스오피스 정보를 가져옵니다. 자세한 내용은 `BoxOffices/fetchDailyTop10` 메서드의 API Description을 참고해주세요
 
 > NOTE: 당일의 순위가 아닌 전날의 순위정보를 가져옵니다.
+
+## 설치하기
+
+### CocoaPods
+
+```ruby
+
+pod 'BoxOfficesKit'
+
+```
+
+### Swift Packag Manager
+
+```swift
+dependencies: [
+  .package(url: "https://github.com/doulos76/movie-package-boxoffices.git", .upToNextMajor(from: "1.0.4"))
+]
+```
 
 ## 기여하기
 
