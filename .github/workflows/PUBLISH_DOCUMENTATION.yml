@@ -41,7 +41,7 @@ jobs:
       uses: actions/upload-pages-artifact@v3
       with:
         # docs 경로에 있는 것만 업로드
-        path: 'docs'
+        path: ./docs
     - name: GitHub Pages 에 배포
       id: deployment
-      uses: actions/deploy-pages@v1
+      uses: actions/deploy-pages@v4
