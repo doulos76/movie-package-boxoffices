@@ -1,0 +1,9 @@
+/Users/dave/Documents/GitHub/movie-package-boxoffices/Sources/BoxOfficesKit/BoxOfficesKit.swift
+/Users/dave/Documents/GitHub/movie-package-boxoffices/Sources/BoxOfficesKit/Errors/APIError.swift
+/Users/dave/Documents/GitHub/movie-package-boxoffices/Sources/BoxOfficesKit/Errors/BoxOfficeError.swift
+/Users/dave/Documents/GitHub/movie-package-boxoffices/Sources/BoxOfficesKit/Extensions/Date.BoxOffices.swift
+/Users/dave/Documents/GitHub/movie-package-boxoffices/Sources/BoxOfficesKit/Extensions/URLRequest.BoxOffices.swift
+/Users/dave/Documents/GitHub/movie-package-boxoffices/Sources/BoxOfficesKit/Model/Movie.swift
+/Users/dave/Documents/GitHub/movie-package-boxoffices/Sources/BoxOfficesKit/Network/APIClient.swift
+/Users/dave/Documents/GitHub/movie-package-boxoffices/Sources/BoxOfficesKit/Network/HttpMethod.swift
+/Users/dave/Documents/GitHub/movie-package-boxoffices/Sources/BoxOfficesKit/Network/Response.swift

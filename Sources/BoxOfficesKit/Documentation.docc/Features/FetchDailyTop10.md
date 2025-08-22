@@ -4,7 +4,7 @@
 
 ## 개요
 
-``BoxOffices/fetchDailyTop10()`` 메서드를 통해 ``Movie`` 타입의 영화 객체를 10개 가져올 수 있습니다.
+``BoxOfficesKit/fetchDailyTop10()`` 메서드를 통해 ``Movie`` 타입의 영화 객체를 10개 가져올 수 있습니다.
 `Result` 타입으로 리턴합니다.
 
 ```swift

@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'BoxOfficesKit' in project 'BoxOfficesKit'
+➜ Explicit dependency on target 'BoxOfficesKit' in project 'BoxOfficesKit'
+Target 'BoxOfficesKit' in project 'BoxOfficesKit' (no dependencies)

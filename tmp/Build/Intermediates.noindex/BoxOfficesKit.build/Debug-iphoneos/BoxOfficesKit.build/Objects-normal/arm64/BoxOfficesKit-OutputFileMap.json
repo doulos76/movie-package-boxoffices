@@ -1,0 +1,98 @@
+{
+  "" : {
+    "diagnostics" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/BoxOfficesKit-master.dia",
+    "emit-module-dependencies" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/BoxOfficesKit-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/BoxOfficesKit-master-emit-module.dia",
+    "swift-dependencies" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/BoxOfficesKit-master.swiftdeps"
+  },
+  "/Users/dave/Documents/GitHub/movie-package-boxoffices/Sources/BoxOfficesKit/BoxOfficesKit.swift" : {
+    "const-values" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/BoxOfficesKit.swiftconstvalues",
+    "dependencies" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/BoxOfficesKit.d",
+    "diagnostics" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/BoxOfficesKit.dia",
+    "index-unit-output-path" : "/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/BoxOfficesKit.o",
+    "llvm-bc" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/BoxOfficesKit.bc",
+    "object" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/BoxOfficesKit.o",
+    "swift-dependencies" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/BoxOfficesKit.swiftdeps",
+    "swiftmodule" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/BoxOfficesKit~partial.swiftmodule"
+  },
+  "/Users/dave/Documents/GitHub/movie-package-boxoffices/Sources/BoxOfficesKit/Errors/APIError.swift" : {
+    "const-values" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/APIError.swiftconstvalues",
+    "dependencies" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/APIError.d",
+    "diagnostics" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/APIError.dia",
+    "index-unit-output-path" : "/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/APIError.o",
+    "llvm-bc" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/APIError.bc",
+    "object" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/APIError.o",
+    "swift-dependencies" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/APIError.swiftdeps",
+    "swiftmodule" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/APIError~partial.swiftmodule"
+  },
+  "/Users/dave/Documents/GitHub/movie-package-boxoffices/Sources/BoxOfficesKit/Errors/BoxOfficeError.swift" : {
+    "const-values" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/BoxOfficeError.swiftconstvalues",
+    "dependencies" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/BoxOfficeError.d",
+    "diagnostics" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/BoxOfficeError.dia",
+    "index-unit-output-path" : "/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/BoxOfficeError.o",
+    "llvm-bc" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/BoxOfficeError.bc",
+    "object" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/BoxOfficeError.o",
+    "swift-dependencies" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/BoxOfficeError.swiftdeps",
+    "swiftmodule" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/BoxOfficeError~partial.swiftmodule"
+  },
+  "/Users/dave/Documents/GitHub/movie-package-boxoffices/Sources/BoxOfficesKit/Extensions/Date.BoxOffices.swift" : {
+    "const-values" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/Date.BoxOffices.swiftconstvalues",
+    "dependencies" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/Date.BoxOffices.d",
+    "diagnostics" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/Date.BoxOffices.dia",
+    "index-unit-output-path" : "/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/Date.BoxOffices.o",
+    "llvm-bc" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/Date.BoxOffices.bc",
+    "object" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/Date.BoxOffices.o",
+    "swift-dependencies" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/Date.BoxOffices.swiftdeps",
+    "swiftmodule" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/Date.BoxOffices~partial.swiftmodule"
+  },
+  "/Users/dave/Documents/GitHub/movie-package-boxoffices/Sources/BoxOfficesKit/Extensions/URLRequest.BoxOffices.swift" : {
+    "const-values" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/URLRequest.BoxOffices.swiftconstvalues",
+    "dependencies" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/URLRequest.BoxOffices.d",
+    "diagnostics" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/URLRequest.BoxOffices.dia",
+    "index-unit-output-path" : "/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/URLRequest.BoxOffices.o",
+    "llvm-bc" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/URLRequest.BoxOffices.bc",
+    "object" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/URLRequest.BoxOffices.o",
+    "swift-dependencies" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/URLRequest.BoxOffices.swiftdeps",
+    "swiftmodule" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/URLRequest.BoxOffices~partial.swiftmodule"
+  },
+  "/Users/dave/Documents/GitHub/movie-package-boxoffices/Sources/BoxOfficesKit/Model/Movie.swift" : {
+    "const-values" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/Movie.swiftconstvalues",
+    "dependencies" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/Movie.d",
+    "diagnostics" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/Movie.dia",
+    "index-unit-output-path" : "/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/Movie.o",
+    "llvm-bc" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/Movie.bc",
+    "object" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/Movie.o",
+    "swift-dependencies" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/Movie.swiftdeps",
+    "swiftmodule" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/Movie~partial.swiftmodule"
+  },
+  "/Users/dave/Documents/GitHub/movie-package-boxoffices/Sources/BoxOfficesKit/Network/APIClient.swift" : {
+    "const-values" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/APIClient.swiftconstvalues",
+    "dependencies" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/APIClient.d",
+    "diagnostics" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/APIClient.dia",
+    "index-unit-output-path" : "/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/APIClient.o",
+    "llvm-bc" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/APIClient.bc",
+    "object" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/APIClient.o",
+    "swift-dependencies" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/APIClient.swiftdeps",
+    "swiftmodule" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/APIClient~partial.swiftmodule"
+  },
+  "/Users/dave/Documents/GitHub/movie-package-boxoffices/Sources/BoxOfficesKit/Network/HttpMethod.swift" : {
+    "const-values" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/HttpMethod.swiftconstvalues",
+    "dependencies" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/HttpMethod.d",
+    "diagnostics" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/HttpMethod.dia",
+    "index-unit-output-path" : "/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/HttpMethod.o",
+    "llvm-bc" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/HttpMethod.bc",
+    "object" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/HttpMethod.o",
+    "swift-dependencies" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/HttpMethod.swiftdeps",
+    "swiftmodule" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/HttpMethod~partial.swiftmodule"
+  },
+  "/Users/dave/Documents/GitHub/movie-package-boxoffices/Sources/BoxOfficesKit/Network/Response.swift" : {
+    "const-values" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/Response.swiftconstvalues",
+    "dependencies" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/Response.d",
+    "diagnostics" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/Response.dia",
+    "index-unit-output-path" : "/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/Response.o",
+    "llvm-bc" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/Response.bc",
+    "object" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/Response.o",
+    "swift-dependencies" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/Response.swiftdeps",
+    "swiftmodule" : "/Users/dave/Documents/GitHub/movie-package-boxoffices/tmp/Build/Intermediates.noindex/BoxOfficesKit.build/Debug-iphoneos/BoxOfficesKit.build/Objects-normal/arm64/Response~partial.swiftmodule"
+  }
+}

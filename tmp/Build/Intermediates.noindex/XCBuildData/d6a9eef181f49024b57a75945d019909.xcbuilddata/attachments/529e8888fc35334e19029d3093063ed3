@@ -1,0 +1,4 @@
+module BoxOfficesKit {
+header "BoxOfficesKit-Swift.h"
+export *
+}
